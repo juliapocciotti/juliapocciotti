@@ -1,7 +1,7 @@
 ## Hi you 👋
 ---
 ### 👩‍💻 About Me
-- Working as a Data Scientist at <a href="https://www.c6bank.com.br/"> C6 Bank </a></p>  
+- Working as a Data Scientist at Mercado Libre
 - Former member of [@TuringUSP](https://github.com/turing-usp), Artificial Intelligence group from the University of São Paulo
 - I like using Data Science as a tool to solve various problems. I'm also particularly interested in NLP and Causal Inference
 
